@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RudeOps</title>
+    <link>https://www.rudeops.com</link>
+    <description>Newsletter DevOps hebdomadaire : Kubernetes, CI/CD, SRE, cloud, Terraform. La veille tech essentielle pour les ingénieurs et professionnels du DevOps.</description>
+    <language>fr</language>
+    <atom:link href="https://www.rudeops.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 27 Apr 2026 19:05:14 GMT</lastBuildDate>
+    <item>
+      <title>Newsletter du 27 Avril 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-04-27</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-04-27</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : Linux, NixOS, Kubernetes, Git, Docker, supply chain, sécurité, ANSSI, IA, agents.</description>
+    </item>
+    <item>
+      <title>Newsletter du 20 Avril 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-04-20</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-04-20</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : IA, sécurité, open source, git, CI/CD, GitLab, Kubernetes, infra, agents.</description>
+    </item>
+    <item>
+      <title>Newsletter du 13 Avril 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-04-13</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-04-13</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : IA, sécurité, CI/CD, GitLab, DNS, Kubernetes, cloud, infra, email, open source.</description>
+    </item>
+    <item>
+      <title>Newsletter du 07 Avril 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-04-07</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-04-07</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : IA, Docker, réseau, Kubernetes, API, on-call, open source, LLM, sécurité.</description>
+    </item>
+    <item>
+      <title>Newsletter du 30 Mars 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-03-30</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-03-30</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : supply chain, sécurité, curl, IA, open source, Kubernetes, Istio, WiFi.</description>
+    </item>
+    <item>
+      <title>Newsletter du 23 Mars 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-03-23</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-03-23</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : git, SSH, Trivy, CI/CD, GitOps, Kubernetes, open source, AWS.</description>
+    </item>
+    <item>
+      <title>Newsletter du 16 Mars 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-03-16</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-03-16</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : open source, Ghostty, Kubernetes, MySQL, Debian, passkeys, Dinit.</description>
+    </item>
+    <item>
+      <title>Newsletter du 09 Mars 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-03-09</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-03-09</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, MTTR, Terraform, Docker, pgrok, MinIO, systemd, Linux.</description>
+    </item>
+    <item>
+      <title>Newsletter du 02 Mars 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-03-02</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-03-02</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, KDash, Dockhand, K8s, Docker.</description>
+    </item>
+    <item>
+      <title>Newsletter du 16 Février 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-02-16</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-02-16</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Glances, ASF, LLM, Vortix.</description>
+    </item>
+    <item>
+      <title>Newsletter du 02 Février 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-02-02</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-02-02</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Dockers, K8s, Superplane, KRR.</description>
+    </item>
+    <item>
+      <title>Newsletter du 19 Janvier 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-01-19</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-01-19</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Talos, K8s, Tailwind, Memtui.</description>
+    </item>
+    <item>
+      <title>Newsletter du 05 Janvier 2026</title>
+      <link>https://www.rudeops.com/newsletters/2026-01-05</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2026-01-05</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, K8s, Pi-hole, Snitch, eBPF.</description>
+    </item>
+    <item>
+      <title>Newsletter du 22 Décembre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-12-22</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-12-22</guid>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Docker, Dockcheck, Owasp, OpenCVE.</description>
+    </item>
+    <item>
+      <title>Newsletter du 08 Décembre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-12-08</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-12-08</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Ghostty, Alpine, RustFS, Sirius.</description>
+    </item>
+    <item>
+      <title>Newsletter du 24 Novembre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-11-24</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-11-24</guid>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, LazyGit, Termix, IaC, ANSSI.</description>
+    </item>
+    <item>
+      <title>Newsletter du 12 Novembre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-11-12</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-11-12</guid>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Restic, Nexterm, Talos, Linux.</description>
+    </item>
+    <item>
+      <title>Newsletter du 29 Octobre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-10-29</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-10-29</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Omarchy, K8s, Docker.</description>
+    </item>
+    <item>
+      <title>Newsletter du 13 Octobre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-10-13</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-10-13</guid>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, eBPF, K8s, Atlassian.</description>
+    </item>
+    <item>
+      <title>Newsletter du 29 Septembre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-09-29</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-09-29</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Kali, Harborguard, Docker.</description>
+    </item>
+    <item>
+      <title>Newsletter du 15 Septembre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-09-15</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-09-15</guid>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Gitops, Git, Docker, Hurl.</description>
+    </item>
+    <item>
+      <title>Newsletter du 01 Septembre 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-09-01</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-09-01</guid>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Github, Git, Docker, Wazuh.</description>
+    </item>
+    <item>
+      <title>Newsletter du 15 Juillet 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-07-15</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-07-15</guid>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Chiko, Somo, Docker, CI/CD.</description>
+    </item>
+    <item>
+      <title>Newsletter du 30 Juin 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-06-30</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-06-30</guid>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Omarchy, K8s, Arsenal, Git.</description>
+    </item>
+    <item>
+      <title>Newsletter du 16 Juin 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-06-16</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-06-16</guid>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Github, IaC, Rust, Kafka.</description>
+    </item>
+    <item>
+      <title>Newsletter du 02 Juin 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-06-02</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-06-02</guid>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, ECS, Kubero, Bruno, Packemon.</description>
+    </item>
+    <item>
+      <title>Newsletter du 19 Mai 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-05-19</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-05-19</guid>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Redis, K8s, Pentest, Git.</description>
+    </item>
+    <item>
+      <title>Newsletter du 05 Mai 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-05-05</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-05-05</guid>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, observability, SQL, Docker, Git, Hetty.</description>
+    </item>
+    <item>
+      <title>Newsletter du 14 Avril 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-04-14</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-04-14</guid>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Gitlab, Github, MTTR, DevSecOps.</description>
+    </item>
+    <item>
+      <title>Newsletter du 24 Mars 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-03-24</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-03-24</guid>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Linux, Git, K8s, Gitops.</description>
+    </item>
+    <item>
+      <title>Newsletter du 10 Mars 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-03-10</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-03-10</guid>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Linux, CORS, Docker, Terraform, Python.</description>
+    </item>
+    <item>
+      <title>Newsletter du 24 Février 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-02-24</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-02-24</guid>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, MySql, Git, Docker, TryHackMe.</description>
+    </item>
+    <item>
+      <title>Newsletter du 10 Février 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-02-10</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-02-10</guid>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, MySql, Kafka, Linux, Docker.</description>
+    </item>
+    <item>
+      <title>Newsletter du 20 Janvier 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-01-20</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-01-20</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, API, GGH, Linux, Docker, console.</description>
+    </item>
+    <item>
+      <title>Newsletter du 06 Janvier 2025</title>
+      <link>https://www.rudeops.com/newsletters/2025-01-06</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2025-01-06</guid>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, SRE, Gosearch, Gitleak, nmap, Ghostty.</description>
+    </item>
+    <item>
+      <title>Newsletter du 16 Décembre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-12-16</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-12-16</guid>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Prometheus, Gitlab, Github, Grafana, K8s.</description>
+    </item>
+    <item>
+      <title>Newsletter du 25 Novembre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-11-25</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-11-25</guid>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Vim, Docker, Ghostty, Linux, Git, OneFetch.</description>
+    </item>
+    <item>
+      <title>Newsletter du 04 Novembre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-11-04</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-11-04</guid>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, AWS, Uber, eBPF, Docker, Git, Curl.</description>
+    </item>
+    <item>
+      <title>Newsletter du 21 Octobre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-10-21</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-10-21</guid>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Servers, Vault, Zendesk, Docker, Git, Talos, Python.</description>
+    </item>
+    <item>
+      <title>Newsletter du 07 Octobre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-10-07</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-10-07</guid>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Hacking, S3, Observability, Docker, Zsh.</description>
+    </item>
+    <item>
+      <title>Newsletter du 16 Septembre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-09-16</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-09-16</guid>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, PromQL, CVEs, IAC, Zsh, Git, Worktrees.</description>
+    </item>
+    <item>
+      <title>Newsletter du 09 Septembre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-09-09</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-09-09</guid>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, CI-CD, CORS, Incus, Curl, Helm, Docker.</description>
+    </item>
+    <item>
+      <title>Newsletter du 02 Septembre 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-09-02</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-09-02</guid>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Kubernetes, Isaiah, Traefik, Nginx, SSH, DevSecOps.</description>
+    </item>
+    <item>
+      <title>Newsletter du 05 Août 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-08-05</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-08-05</guid>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Kubernetes, Linux, Network, Monitoring, Swarm.</description>
+    </item>
+    <item>
+      <title>Newsletter du 22 Juillet 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-07-22</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-07-22</guid>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Starship, Github, API, PostgreSQL, S3.</description>
+    </item>
+    <item>
+      <title>Newsletter du 02 Juillet 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-07-02</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-07-02</guid>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Rancher, eBPF, Linux, Zellij, SSL, Git.</description>
+    </item>
+    <item>
+      <title>Newsletter du 17 Juin 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-06-17</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-06-17</guid>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, LXC, Docker, CI-CD, Linux, Gitness, S3, DORA.</description>
+    </item>
+    <item>
+      <title>Newsletter du 10 Juin 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-06-10</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-06-10</guid>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, Omakub, Ubuntu, database, Shell, Gitlab, Sql.</description>
+    </item>
+    <item>
+      <title>Newsletter du 03 Juin 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-06-03</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-06-03</guid>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, DNS, K8s, Linux, Docker, Podman, Memcache.</description>
+    </item>
+    <item>
+      <title>Newsletter du 20 Mai 2024</title>
+      <link>https://www.rudeops.com/newsletters/2024-05-20</link>
+      <guid isPermaLink="true">https://www.rudeops.com/newsletters/2024-05-20</guid>
+      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+      <description>Au programme : devops, database, K8s, gitops, API, cybersecurity.</description>
+    </item>
+  </channel>
+</rss>
